@@ -8,6 +8,7 @@ public class calc {
 		int num2 = sc.nextInt();
 		System.out.println("Addition: " + (num1+num2));
 		System.out.println("Subtraction: " + (num1-num2));
+		System.out.println("Multiplication: " + (num1*num2));
 		sc.close();
 	}
 }
